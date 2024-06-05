@@ -1,0 +1,25 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body,html{
+    height: 100%;
+    width: 100%;
+    
+}
+
+#header header ul li{
+text-transform: capitalize;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+
+ul{
+    display: flex;
+     justify-content: space-between;
+     gap: 1vw;
+}
